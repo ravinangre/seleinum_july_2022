@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-03T07:28:10 IST" name="Suite" finished-at="2023-01-03T07:28:11 IST" duration-ms="1593">
+    <groups>
+    </groups>
+    <test started-at="2023-01-03T07:28:10 IST" name="Test" finished-at="2023-01-03T07:28:11 IST" duration-ms="1593">
+      <class name="TestNGPrograms.ReadDatafromExcel">
+        <test-method signature="ReadExcel()[pri:0, instance:TestNGPrograms.ReadDatafromExcel@294425a7]" started-at="2023-01-03T07:28:10 IST" name="ReadExcel" finished-at="2023-01-03T07:28:11 IST" duration-ms="1502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadExcel -->
+      </class> <!-- TestNGPrograms.ReadDatafromExcel -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

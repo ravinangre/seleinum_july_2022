@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+ <parameter name="val1" value="20"/>
+ <parameter name="val2" value="10"/>
+  <test name="Test">
+    <classes>
+      <class name="TestNGPrograms.Param"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="MultiplicationTest">
+    <classes>
+      <class name="TestNGPrograms.Multiply"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="ParallelTest" parallel="classes" thread-count="3">
+    <classes>
+      <class name="TestNGPrograms.ChromeTest"/> 
+      <class name="TestNGPrograms.EdgeTest"/>
+      <class name="TestNGPrograms.FireFoxTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
